@@ -6,7 +6,7 @@ var campgroundSchema = new mongoose.Schema({
    image: String,
    description: String,
 	contactp: String,
-	contactn: Number,
+	contactn: String,
 	location: String,
     createdAt: { type: Date, default: Date.now },
    author: {
