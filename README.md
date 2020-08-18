@@ -17,7 +17,12 @@ The app performs CRUD operations for users, the campground and the comments.
 - Admin can generate invitation code for user to sign up
 
 #### Basic functionalities
-- Create, edit and delete posts and comments
+- Create, edit and delete posts, comments and reviews
 - Upload campground photos
+#### Flash messages responding to users' interaction with the app
+#### Responsive web design
+#### Update campground photos when editing campgrounds
+#### Used Google Fonts and Font Awesome instead default fonts
+#### Used momentJS to show post and comment creation and update timestamp
 
 
